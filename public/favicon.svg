@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#14213D"/>
+  <rect x="2" y="2" width="28" height="28" rx="5" fill="none" stroke="#1a6fd4" stroke-width="1.5" stroke-opacity="0.65"/>
+  <circle cx="24.5" cy="7.5" r="2.5" fill="#B8432F"/>
+  <text x="8.5" y="23.5" fill="#F7F5EE" font-family="'Noto Serif TC', Georgia, serif" font-size="21" font-weight="900">Φ</text>
+</svg>
